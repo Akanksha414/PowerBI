@@ -10,6 +10,7 @@ d) How the price changes with change in Source and Destination?
 e) How does the ticket price vary between Economy and Business class? 
 
 Dataset Used: 
+
 <a href= https://github.com/Akanksha414/PowerBI/blob/main/Airline.xlsx>Dataset</a>
 
 
